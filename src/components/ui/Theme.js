@@ -22,6 +22,11 @@ export default createMuiTheme({
             textTransform: "none",
             fontWeight: "bold",
             fontSize: "1rem",
+        },
+        estimate: {
+            textTransform: 'none',
+            fontSize: '1rem',
+            fontFamily: 'Pacifico',
         }
     }
 });
